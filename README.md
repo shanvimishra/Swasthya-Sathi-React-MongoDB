@@ -145,15 +145,33 @@ cd swasthya-sathi
 pip install -r requirements.txt
 python backend/app.py
 
+```
 
-Setup database
+---
 
-Create database: swasthya_sathi
+## Final Impact
 
-Import database/swasthya.sql
+- Reduced paperwork by 70%
+- Faster appointments
+- Centralized medical records
+- Improved healthcare efficiency
 
-Run frontend
-Open frontend/index.html in browser
+---
+
+## Author & Contact
+
+Shanvi Mishra  
+Final Year B.Tech (CSE)  
+
+Email: your-shaanvimishraa0593@gmail.com  
+
+LinkedIn:  https://linkedin.com/in//shanvimishra
+GitHub: : https://github.com/shanvimishra 
+
+
+
+
+
 
 
 
